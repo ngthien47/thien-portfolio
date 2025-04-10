@@ -3,9 +3,9 @@ import project2 from "../assets/projects/portfolio.png";
 import project3 from "../assets/projects/project-3.jpg";
 import project4 from "../assets/projects/project-4.jpg";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I am a passionate and motivated web developer with strong skills in both frontend and backend development. I have hands-on experience with technologies like Wordpress, PHP, ReactJS, .NET and MySQL, and I’m comfortable working with modern tools like GitHub, Figma, and various AI-driven tools such as ChatGPT, ClaudeAI, Copilot, and CursorAI.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `My goal is to secure a professional position as a web developer at an exciting tech company where I can apply my skills to build intuitive and dynamic websites in the real world. In the next few years, I aim to become an expert in web fullstack development and evolve into a lead developer role over time. I am a self-starter who works well independently and collaboratively. I am really excited to bring passion to my frontend or backend development career.`;
 
 export const EXPERIENCES = [
   {
@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     role: "Frontend Intern",
     company: "Fuzitavn Co.,LTD",
     description: `Design prototypes for websites and applications. Implement web design and development principles for building software stable. Fix issue related to the user interface. Develop and maintain frontend functionality for websites.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    technologies: ["ReactJS"],
   },
   {
     year: "8/2023 - 12/2023",
