@@ -20,7 +20,7 @@ export const EXPERIENCES = [
     role: "Frontend Intern",
     company: "Fuzitavn Co.,LTD",
     description: `Design prototypes for websites and applications. Implement web design and development principles for building software stable. Fix issue related to the user interface. Develop and maintain frontend functionality for websites.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
+    technologies: ["ReactJS"],
   },
   {
     year: "8/2023 - 12/2023",
