@@ -1,7 +1,5 @@
 import project1 from "../assets/projects/restaurantProject.png";
 import project2 from "../assets/projects/portfolio.png";
-import project3 from "../assets/projects/project-3.jpg";
-import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `I am a passionate and motivated web developer with strong skills in both frontend and backend development. I have hands-on experience with technologies like Wordpress, PHP, ReactJS, .NET and MySQL, and I’m comfortable working with modern tools like GitHub, Figma, and various AI-driven tools such as ChatGPT, ClaudeAI, Copilot, and CursorAI.`;
 
